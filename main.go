@@ -59,5 +59,6 @@ func DownloadFile(url, output string) error{
 		return err
 	}
 	return nil
+
 	
 }
